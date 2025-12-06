@@ -1,48 +1,105 @@
 [
   {
+    "productCode": "CAKE001",
     "id": 1,
     "name": "Classic Vanilla Bean",
-    "flavour": "Vanilla",
     "description": "A timeless classic with rich vanilla flavor and buttercream frosting.",
-    "image_url": "assets/cake-pictures/1.jpeg",
+    "type": "Celebration",
+    "flavour": "Vanilla",
+    "shape": ["Round", "Square"],
+    "size": ["Small (6\")", "Medium (8\")", "Large (10\")"],
+    "tier": ["1-Tier", "2-Tier", "3-Tier"],
+    "photo": "./cake-pictures/1.jpg",
+    "3D": false,
+    "fondant": "Yes",
+    "customized": true,
     "options": [
       {"size_shape": "Small Round (6\")", "price": 35.00},
       {"size_shape": "Medium Round (8\")", "price": 50.00},
       {"size_shape": "Large Square (10\")", "price": 75.00}
-    ]
+    ],
+    "pricing": {
+      "base_price": 35.00,
+      "3D_addon": 15.00,
+      "fondant_addon": 10.00,
+      "customization_addon": 20.00
+    }
   },
   {
+    "productCode": "CAKE002",
     "id": 2,
     "name": "Decadent Chocolate Fudge",
-    "flavour": "Chocolate",
     "description": "Layers of moist chocolate cake and smooth, rich fudge frosting.",
-    "image_url": "assets/cake-pictures/2.jpg",
+    "type": "Premium",
+    "flavour": "Chocolate",
+    "shape": ["Round", "Square"],
+    "size": ["Small (6\")", "Medium (8\")", "Large (10\")"],
+    "tier": ["1-Tier", "2-Tier"],
+    "photo": "./cake-pictures/2.jpg",
+    "3D": true,
+    "fondant": "Yes",
+    "customized": true,
     "options": [
       {"size_shape": "Small Round (6\")", "price": 40.00},
       {"size_shape": "Medium Round (8\")", "price": 55.00},
       {"size_shape": "Large Square (10\")", "price": 80.00}
-    ]
+    ],
+    "pricing": {
+      "base_price": 40.00,
+      "3D_addon": 20.00,
+      "fondant_addon": 12.00,
+      "customization_addon": 25.00
+    }
   },
   {
+    "productCode": "CAKE003",
     "id": 3,
     "name": "Luscious Lemon Berry",
-    "flavour": "Lemon",
     "description": "Light lemon sponge with fresh berry compote filling and cream cheese icing.",
-  "image_url": "assets/cake-pictures/1.jpeg",
+    "type": "Seasonal",
+    "flavour": "Lemon",
+    "shape": ["Round"],
+    "size": ["Small (6\")", "Medium (8\")"],
+    "tier": ["1-Tier", "2-Tier"],
+    "photo": "./cake-pictures/3.jpg",
+    "3D": false,
+    "fondant": "No",
+    "customized": false,
     "options": [
       {"size_shape": "Small Round (6\")", "price": 38.00},
       {"size_shape": "Medium Round (8\")", "price": 53.00}
-    ]
+    ],
+    "pricing": {
+      "base_price": 38.00,
+      "3D_addon": 0.00,
+      "fondant_addon": 8.00,
+      "customization_addon": 15.00
+    }
   },
-   {
+  {
+    "productCode": "CAKE004",
     "id": 4,
     "name": "Red Velvet Dream",
-    "flavour": "Red Velvet",
     "description": "Classic red velvet cake with tangy cream cheese frosting.",
-     "image_url": "assets/cake-pictures/2.jpg",
+    "type": "Premium",
+    "flavour": "Red Velvet",
+    "shape": ["Round", "Heart"],
+    "size": ["Small (6\")", "Medium (8\")", "Large (10\")"],
+    "tier": ["1-Tier", "2-Tier", "3-Tier"],
+    "photo": "./cake-pictures/4.jpg",
+    "3D": true,
+    "fondant": "Yes",
+    "customized": true,
     "options": [
       {"size_shape": "Small Round (6\")", "price": 36.00},
-      {"size_shape": "Medium Round (8\")", "price": 51.00}
-    ]
+      {"size_shape": "Medium Round (8\")", "price": 51.00},
+      {"size_shape": "Large Square (10\")", "price": 76.00}
+    ],
+    "pricing": {
+      "base_price": 36.00,
+      "3D_addon": 18.00,
+      "fondant_addon": 11.00,
+      "customization_addon": 22.00
+    }
   }
 ]
