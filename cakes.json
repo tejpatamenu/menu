@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Vanilla Bean",
+    "flavour": "Vanilla",
+    "description": "A timeless classic with rich vanilla flavor and buttercream frosting.",
+    "image_url": "via.placeholder.com",
+    "options": [
+      {"size_shape": "Small Round (6\")", "price": 35.00},
+      {"size_shape": "Medium Round (8\")", "price": 50.00},
+      {"size_shape": "Large Square (10\")", "price": 75.00}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Decadent Chocolate Fudge",
+    "flavour": "Chocolate",
+    "description": "Layers of moist chocolate cake and smooth, rich fudge frosting.",
+    "image_url": "via.placeholder.com",
+    "options": [
+      {"size_shape": "Small Round (6\")", "price": 40.00},
+      {"size_shape": "Medium Round (8\")", "price": 55.00},
+      {"size_shape": "Large Square (10\")", "price": 80.00}
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Luscious Lemon Berry",
+    "flavour": "Lemon",
+    "description": "Light lemon sponge with fresh berry compote filling and cream cheese icing.",
+    "image_url": "via.placeholder.com",
+    "options": [
+      {"size_shape": "Small Round (6\")", "price": 38.00},
+      {"size_shape": "Medium Round (8\")", "price": 53.00}
+    ]
+  },
+   {
+    "id": 4,
+    "name": "Red Velvet Dream",
+    "flavour": "Red Velvet",
+    "description": "Classic red velvet cake with tangy cream cheese frosting.",
+    "image_url": "via.placeholder.com",
+    "options": [
+      {"size_shape": "Small Round (6\")", "price": 36.00},
+      {"size_shape": "Medium Round (8\")", "price": 51.00}
+    ]
+  }
+]
