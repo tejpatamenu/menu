@@ -16,7 +16,7 @@
     "name": "Decadent Chocolate Fudge",
     "flavour": "Chocolate",
     "description": "Layers of moist chocolate cake and smooth, rich fudge frosting.",
-    "image_url": "via.placeholder.com",
+    "image_url": "./cake-pictures/1.jpg",
     "options": [
       {"size_shape": "Small Round (6\")", "price": 40.00},
       {"size_shape": "Medium Round (8\")", "price": 55.00},
