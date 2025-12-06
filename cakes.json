@@ -39,7 +39,7 @@
     "name": "Red Velvet Dream",
     "flavour": "Red Velvet",
     "description": "Classic red velvet cake with tangy cream cheese frosting.",
-    "image_url": "via.placeholder.com",
+     "image_url": "./cake-pictures/1.jpg",
     "options": [
       {"size_shape": "Small Round (6\")", "price": 36.00},
       {"size_shape": "Medium Round (8\")", "price": 51.00}
