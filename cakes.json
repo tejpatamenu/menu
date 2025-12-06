@@ -4,7 +4,7 @@
     "name": "Classic Vanilla Bean",
     "flavour": "Vanilla",
     "description": "A timeless classic with rich vanilla flavor and buttercream frosting.",
-    "image_url": "via.placeholder.com",
+    "image_url": "./cake-pictures/1.jpg",
     "options": [
       {"size_shape": "Small Round (6\")", "price": 35.00},
       {"size_shape": "Medium Round (8\")", "price": 50.00},
