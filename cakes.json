@@ -14,16 +14,37 @@
     "fondant": "Yes",
     "customized": true,
     "options": [
-      {"size_shape": "Small Round (6-inc)", "price": 35.00},
-      {"size_shape": "Medium Round (8-inc)", "price": 50.00},
-      {"size_shape": "Large Square (10-inc)", "price": 75.00}
-    ],
-    "pricing": {
-      "base_price": 35.00,
-      "3D_addon": 15.00,
-      "fondant_addon": 10.00,
-      "customization_addon": 20.00
-    }
+      {
+        "size_shape": "Small Round (6-inc)",
+        "price": 35.00,
+        "addons": {
+          "3D_addon": 15.00,
+          "fondant_addon": 10.00,
+          "customization_addon": 20.00,
+          "photo_addon": 5.00
+        }
+      },
+      {
+        "size_shape": "Medium Round (8-inc)",
+        "price": 50.00,
+        "addons": {
+          "3D_addon": 15.00,
+          "fondant_addon": 10.00,
+          "customization_addon": 20.00,
+          "photo_addon": 5.00
+        }
+      },
+      {
+        "size_shape": "Large Square (10-inc)",
+        "price": 75.00,
+        "addons": {
+          "3D_addon": 15.00,
+          "fondant_addon": 10.00,
+          "customization_addon": 20.00,
+          "photo_addon": 5.00
+        }
+      }
+    ]
   },
   {
     "productCode": "CAKE002",
@@ -40,16 +61,37 @@
     "fondant": "Yes",
     "customized": true,
     "options": [
-      {"size_shape": "Small Round (6-inc)", "price": 40.00},
-      {"size_shape": "Medium Round (8-inc)", "price": 55.00},
-      {"size_shape": "Large Square (10-inc)", "price": 80.00}
-    ],
-    "pricing": {
-      "base_price": 40.00,
-      "3D_addon": 20.00,
-      "fondant_addon": 12.00,
-      "customization_addon": 25.00
-    }
+      {
+        "size_shape": "Small Round (6-inc)",
+        "price": 40.00,
+        "addons": {
+          "3D_addon": 20.00,
+          "fondant_addon": 12.00,
+          "customization_addon": 25.00,
+          "photo_addon": 5.00
+        }
+      },
+      {
+        "size_shape": "Medium Round (8-inc)",
+        "price": 55.00,
+        "addons": {
+          "3D_addon": 20.00,
+          "fondant_addon": 12.00,
+          "customization_addon": 25.00,
+          "photo_addon": 5.00
+        }
+      },
+      {
+        "size_shape": "Large Square (10-inc)",
+        "price": 80.00,
+        "addons": {
+          "3D_addon": 20.00,
+          "fondant_addon": 12.00,
+          "customization_addon": 25.00,
+          "photo_addon": 5.00
+        }
+      }
+    ]
   },
   {
     "productCode": "CAKE003",
@@ -66,15 +108,27 @@
     "fondant": "No",
     "customized": false,
     "options": [
-      {"size_shape": "Small Round (6-inc)", "price": 38.00},
-      {"size_shape": "Medium Round (8-inc)", "price": 53.00}
-    ],
-    "pricing": {
-      "base_price": 38.00,
-      "3D_addon": 0.00,
-      "fondant_addon": 8.00,
-      "customization_addon": 15.00
-    }
+      {
+        "size_shape": "Small Round (6-inc)",
+        "price": 38.00,
+        "addons": {
+          "3D_addon": 0.00,
+          "fondant_addon": 8.00,
+          "customization_addon": 15.00,
+          "photo_addon": 5.00
+        }
+      },
+      {
+        "size_shape": "Medium Round (8-inc)",
+        "price": 53.00,
+        "addons": {
+          "3D_addon": 0.00,
+          "fondant_addon": 8.00,
+          "customization_addon": 15.00,
+          "photo_addon": 5.00
+        }
+      }
+    ]
   },
   {
     "productCode": "CAKE004",
@@ -91,15 +145,36 @@
     "fondant": "Yes",
     "customized": true,
     "options": [
-      {"size_shape": "Small Round (6-inc)", "price": 36.00},
-      {"size_shape": "Medium Round (8-inc)", "price": 51.00},
-      {"size_shape": "Large Square (10-inc)", "price": 76.00}
-    ],
-    "pricing": {
-      "base_price": 36.00,
-      "3D_addon": 18.00,
-      "fondant_addon": 11.00,
-      "customization_addon": 22.00
-    }
+      {
+        "size_shape": "Small Round (6-inc)",
+        "price": 36.00,
+        "addons": {
+          "3D_addon": 18.00,
+          "fondant_addon": 11.00,
+          "customization_addon": 22.00,
+          "photo_addon": 5.00
+        }
+      },
+      {
+        "size_shape": "Medium Round (8-inc)",
+        "price": 51.00,
+        "addons": {
+          "3D_addon": 18.00,
+          "fondant_addon": 11.00,
+          "customization_addon": 22.00,
+          "photo_addon": 5.00
+        }
+      },
+      {
+        "size_shape": "Large Square (10-inc)",
+        "price": 76.00,
+        "addons": {
+          "3D_addon": 18.00,
+          "fondant_addon": 11.00,
+          "customization_addon": 22.00,
+          "photo_addon": 5.00
+        }
+      }
+    ]
   }
 ]
