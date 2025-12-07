@@ -7,16 +7,16 @@
     "type": "Celebration",
     "flavour": "Vanilla",
     "shape": ["Round", "Square"],
-    "size": ["Small (6\")", "Medium (8\")", "Large (10\")"],
+    "size": ["Small (6-inc)", "Medium (8-inc)", "Large (10-inc)"],
     "tier": ["1-Tier", "2-Tier", "3-Tier"],
     "photo": "./cake-pictures/1.jpg",
     "3D": false,
     "fondant": "Yes",
     "customized": true,
     "options": [
-      {"size_shape": "Small Round (6\")", "price": 35.00},
-      {"size_shape": "Medium Round (8\")", "price": 50.00},
-      {"size_shape": "Large Square (10\")", "price": 75.00}
+      {"size_shape": "Small Round (6-inc)", "price": 35.00},
+      {"size_shape": "Medium Round (8-inc)", "price": 50.00},
+      {"size_shape": "Large Square (10-inc)", "price": 75.00}
     ],
     "pricing": {
       "base_price": 35.00,
@@ -33,16 +33,16 @@
     "type": "Premium",
     "flavour": "Chocolate",
     "shape": ["Round", "Square"],
-    "size": ["Small (6\")", "Medium (8\")", "Large (10\")"],
+    "size": ["Small (6-inc)", "Medium (8-inc)", "Large (10-inc)"],
     "tier": ["1-Tier", "2-Tier"],
     "photo": "./cake-pictures/2.jpg",
     "3D": true,
     "fondant": "Yes",
     "customized": true,
     "options": [
-      {"size_shape": "Small Round (6\")", "price": 40.00},
-      {"size_shape": "Medium Round (8\")", "price": 55.00},
-      {"size_shape": "Large Square (10\")", "price": 80.00}
+      {"size_shape": "Small Round (6-inc)", "price": 40.00},
+      {"size_shape": "Medium Round (8-inc)", "price": 55.00},
+      {"size_shape": "Large Square (10-inc)", "price": 80.00}
     ],
     "pricing": {
       "base_price": 40.00,
@@ -59,15 +59,15 @@
     "type": "Seasonal",
     "flavour": "Lemon",
     "shape": ["Round"],
-    "size": ["Small (6\")", "Medium (8\")"],
+    "size": ["Small (6-inc)", "Medium (8-inc)"],
     "tier": ["1-Tier", "2-Tier"],
     "photo": "./cake-pictures/3.jpg",
     "3D": false,
     "fondant": "No",
     "customized": false,
     "options": [
-      {"size_shape": "Small Round (6\")", "price": 38.00},
-      {"size_shape": "Medium Round (8\")", "price": 53.00}
+      {"size_shape": "Small Round (6-inc)", "price": 38.00},
+      {"size_shape": "Medium Round (8-inc)", "price": 53.00}
     ],
     "pricing": {
       "base_price": 38.00,
@@ -84,16 +84,16 @@
     "type": "Premium",
     "flavour": "Red Velvet",
     "shape": ["Round", "Heart"],
-    "size": ["Small (6\")", "Medium (8\")", "Large (10\")"],
+    "size": ["Small (6-inc)", "Medium (8-inc)", "Large (10-inc)"],
     "tier": ["1-Tier", "2-Tier", "3-Tier"],
     "photo": "./cake-pictures/4.jpg",
     "3D": true,
     "fondant": "Yes",
     "customized": true,
     "options": [
-      {"size_shape": "Small Round (6\")", "price": 36.00},
-      {"size_shape": "Medium Round (8\")", "price": 51.00},
-      {"size_shape": "Large Square (10\")", "price": 76.00}
+      {"size_shape": "Small Round (6-inc)", "price": 36.00},
+      {"size_shape": "Medium Round (8-inc)", "price": 51.00},
+      {"size_shape": "Large Square (10-inc)", "price": 76.00}
     ],
     "pricing": {
       "base_price": 36.00,
