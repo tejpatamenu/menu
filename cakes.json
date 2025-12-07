@@ -9,10 +9,11 @@
     "shape": ["Round", "Square"],
     "size": ["Small (6-inc)", "Medium (8-inc)", "Large (10-inc)"],
     "tier": ["1-Tier", "2-Tier", "3-Tier"],
-    "photo": ".assets/cake-pictures/1.jpeg",
+    "photo": "./assets/cake-pictures/1.jpeg",
     "3D": false,
     "fondant": "Yes",
     "customized": true,
+    "photoPrintable": true,
     "options": [
       {
         "size": "Small (6-inc)",
@@ -53,10 +54,11 @@
     "shape": ["Round", "Square"],
     "size": ["Small (6-inc)", "Medium (8-inc)", "Large (10-inc)"],
     "tier": ["1-Tier", "2-Tier"],
-  "photo": ".assets/cake-pictures/2.jpg",
+    "photo": "./assets/cake-pictures/2.jpg",
     "3D": true,
     "fondant": "Yes",
     "customized": true,
+    "photoPrintable": true,
     "options": [
       {
         "size": "Small (6-inc)",
@@ -97,10 +99,11 @@
     "shape": ["Round"],
     "size": ["Small (6-inc)", "Medium (8-inc)"],
     "tier": ["1-Tier", "2-Tier"],
-     "photo": ".assets/cake-pictures/1.jpeg",
+    "photo": "./assets/cake-pictures/1.jpeg",
     "3D": false,
     "fondant": "No",
     "customized": false,
+    "photoPrintable": false,
     "options": [
       {
         "size": "Small (6-inc)",
@@ -108,7 +111,7 @@
         "addons": {
           "3D_addon": 0.00,
           "fondant_addon": 6.00,
-          "photo_addon": 3.00
+          "photo_addon": 0.00
         }
       },
       {
@@ -117,7 +120,7 @@
         "addons": {
           "3D_addon": 0.00,
           "fondant_addon": 8.00,
-          "photo_addon": 5.00
+          "photo_addon": 0.00
         }
       }
     ]
@@ -132,10 +135,11 @@
     "shape": ["Round", "Heart"],
     "size": ["Small (6-inc)", "Medium (8-inc)", "Large (10-inc)"],
     "tier": ["1-Tier", "2-Tier", "3-Tier"],
-   "photo": ".assets/cake-pictures/2.jpg",
+    "photo": "./assets/cake-pictures/2.jpg",
     "3D": true,
     "fondant": "Yes",
     "customized": true,
+    "photoPrintable": true,
     "options": [
       {
         "size": "Small (6-inc)",
